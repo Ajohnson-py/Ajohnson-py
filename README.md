@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm AJ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Aspiring+Software+Engineer;USC+CompE+and+CS+Student;Love+for+Low+Level+Programming" alt="Typing SVG" /></a>
+</p>
 
-<!--
-**Ajohnson-py/Ajohnson-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="www.linkedin.com/in/aug-johnson"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25" alt="linkedin logo"/></a> <a href="mailto:augustjohnson.py@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" height = 25 alt="Gmail"/></a>
+</div>
 
-Here are some ideas to get you started:
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+
+- 👨‍💻 I'm an aspiring software engineer  
+- :school: I plan to attend [USC](https://viterbischool.usc.edu/) to study computer engineering and computer science
+- :trophy: 2x AP Scholar with Distinction
+- :computer: My interests revolve around using software to promote equality
+- 🤓 Currently learning OpenGL and Computer Graphics math
+<br>
+
+### 🛠️ Programming languages
+&emsp;
+<a href="https://www.cprogramming.com/"> 
+  <img alt="C" width=40 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg">
+</a>
+&emsp;
+<a href="https://www.w3schools.com/cpp/"> 
+  <img alt="C++" width=40 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg">
+</a> 
+&emsp;
+<a href="https://www.java.com"> 
+  <img alt="Java" width=40 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
+</a>
+&emsp;
+<a href="https://www.python.org">
+  <img alt="Python" width=40 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
+</a>
