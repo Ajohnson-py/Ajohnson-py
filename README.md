@@ -24,7 +24,7 @@
   - Software renderer built using C and SDL
   - The purpose of the project was to expand my knowledge of computer graphics and writing low-level code
 - **[Mathcha Hotkey Script](https://github.com/Ajohnson-py/Mathcha-Keyboard-Shortcuts)**
-  - Python script made to make Mathcha more accessible for students with disabilities
+  - Python script that makes [Mathcha](https://www.mathcha.io/) more accessible for students with disabilities
   - Bult using the pynput library
 
 ## 🛠️ Programming languages
