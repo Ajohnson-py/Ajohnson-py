@@ -25,7 +25,7 @@
   - The purpose of the project was to expand my knowledge of computer graphics and writing low-level code
 - **[Mathcha Hotkey Script](https://github.com/Ajohnson-py/Mathcha-Keyboard-Shortcuts)**
   - Python script that makes [Mathcha](https://www.mathcha.io/) more accessible for students with disabilities
-  - Bult using the pynput library
+  - Built using the pynput Python library
 
 ## 🛠️ Programming languages
 &emsp;
