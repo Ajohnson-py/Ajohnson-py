@@ -16,9 +16,18 @@
 - :trophy: 2x AP Scholar with Distinction
 - :computer: My interests revolve around using software to promote equality
 - 🤓 Currently learning OpenGL and Computer Graphics math
-<br>
+<be>
 
-### 🛠️ Programming languages
+## 🥇 Noteworthy Projects
+
+- **[3D Software Render](https://github.com/Ajohnson-py/3D-Software-Renderer/tree/main)**
+  - Software renderer built using C and SDL
+  - The purpose of the project was to expand my knowledge of computer graphics and writing low-level code
+- **[Mathcha Hotkey Script](https://github.com/Ajohnson-py/Mathcha-Keyboard-Shortcuts)**
+  - Python script made to make Mathcha more accessible for students with disabilities
+  - Bult using the pynput library
+
+## 🛠️ Programming languages
 &emsp;
 <a href="https://www.cprogramming.com/"> 
   <img alt="C" width=40 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg">
