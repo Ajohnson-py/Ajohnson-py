@@ -17,6 +17,10 @@
 - :computer: My interests revolve around using software to promote equality
 - 🤓 Currently learning OpenGL and Computer Graphics math
 
+<br>
+<br>
+<br>
+
 ## 🥇 Noteworthy Projects
 
 - **[3D Software Render](https://github.com/Ajohnson-py/3D-Software-Renderer/tree/main)**
