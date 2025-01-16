@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <a href="www.linkedin.com/in/aug-johnson"><img img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="linkedin"/></a>  <a href="mailto:augustjohnson.py@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height = 25 alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/aug-johnson"><img img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="linkedin"/></a>  <a href="mailto:augustjohnson.py@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height = 25 alt="Gmail"/></a>
 </div>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
