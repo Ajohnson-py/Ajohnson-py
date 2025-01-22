@@ -15,7 +15,7 @@
 - :school: I plan on attending [USC](https://viterbischool.usc.edu/) to study computer engineering and computer science
 - :trophy: 2x AP Scholar with Distinction
 - :computer: My interests revolve around using software to promote equality
-- 🤓 Currently learning OpenGL and Computer Graphics math
+- 🤓 Currently learning C++ and OpenGL
 
 <br>
 <br>
@@ -25,7 +25,7 @@
 
 - **[3D Software Render](https://github.com/Ajohnson-py/3D-Software-Renderer/tree/main)**
   - Software renderer built using C and SDL
-  - The purpose of the project was to expand my knowledge of computer graphics and writing low-level code
+  - Project's purpose was to expand my knowledge of computer graphics and writing low-level code
 - **[Mathcha Hotkey Script](https://github.com/Ajohnson-py/Mathcha-Keyboard-Shortcuts)**
   - Python script that makes [Mathcha](https://www.mathcha.io/) more accessible for students with disabilities
   - Built using the pynput Python library
@@ -34,10 +34,6 @@
 &emsp;
 <a href="https://www.cprogramming.com/"> 
   <img alt="C" width=40 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg">
-</a>
-&emsp;
-<a href="https://www.w3schools.com/cpp/"> 
-  <img alt="C++" width=40 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg">
 </a> 
 &emsp;
 <a href="https://www.java.com"> 
