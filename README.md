@@ -15,7 +15,7 @@
 - :school: I plan on attending [USC](https://viterbischool.usc.edu/) to study computer engineering and computer science
 - :trophy: 2x AP Scholar with Distinction
 - :computer: My interests revolve around using software to promote equality
-- 🤓 Currently learning C++ and OpenGL
+- 🤓 Currently learning C++, OpenGL, and OpenCV
 
 <br>
 <br>
