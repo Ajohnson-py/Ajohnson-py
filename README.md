@@ -30,7 +30,7 @@
   - In-progress computer vision program enabling people with severe physical impairments to control their computer with their face
   - Built using Python, OpenCV, and MediaPipe
 - **[Mathcha Hotkey Script](https://github.com/Ajohnson-py/Mathcha-Keyboard-Shortcuts)**
-  - Python script that makes [Mathcha](https://www.mathcha.io/) more accessible for students with disabilities
+  - Script that makes [Mathcha](https://www.mathcha.io/) more accessible for students with physical impairments
   - Built using Python and the Pynput library
 
 ## 🛠️ Programming languages
