@@ -27,7 +27,7 @@
   - Software renderer that implements basic graphics programming techniques (scanline rasterization, backface culling, etc...)
   - Built using C and SDL
 - **[FacNav](https://github.com/Ajohnson-py/FaceNav)**
-  - In-progress computer vision program enabling people with severe physical disabilities to control their computer with their face
+  - In-progress computer vision program enabling people with severe physical impairments to control their computer with their face
   - Built using Python, OpenCV, and MediaPipe
 - **[Mathcha Hotkey Script](https://github.com/Ajohnson-py/Mathcha-Keyboard-Shortcuts)**
   - Python script that makes [Mathcha](https://www.mathcha.io/) more accessible for students with disabilities
