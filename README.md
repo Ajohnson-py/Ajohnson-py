@@ -24,11 +24,14 @@
 ## 🥇 Noteworthy Projects
 
 - **[3D Software Render](https://github.com/Ajohnson-py/3D-Software-Renderer/tree/main)**
-  - Software renderer built using C and SDL
-  - Project's purpose was to expand my knowledge of computer graphics and writing low-level code
+  - Software renderer that implements basic graphics programming techniques (scanline rasterization, backface culling, etc...)
+  - Built using C and SDL
+- **[FacNav](https://github.com/Ajohnson-py/FaceNav)**
+  - In-progress computer vision program enabling people with severe physical disabilities to control their computer using their face
+  - Built using Python, OpenCV, and MediaPipe
 - **[Mathcha Hotkey Script](https://github.com/Ajohnson-py/Mathcha-Keyboard-Shortcuts)**
   - Python script that makes [Mathcha](https://www.mathcha.io/) more accessible for students with disabilities
-  - Built using the pynput Python library
+  - Built using Python and the Pynput library
 
 ## 🛠️ Programming languages
 &emsp;
