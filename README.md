@@ -12,10 +12,10 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 - 👨‍💻 I'm an aspiring software engineer  
-- :school: I plan on attending [USC](https://viterbischool.usc.edu/) to study computer engineering and computer science
+- :school: I am attending [USC](https://viterbischool.usc.edu/) to study computer engineering and computer science
 - :trophy: 2x AP Scholar with Distinction
 - :computer: My interests revolve around using software to improve others' lives
-- 🤓 Currently learning C++, OpenGL, and OpenCV
+- 🤓 Currently learning C++ and Metal
 
 <br>
 <br>
