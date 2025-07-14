@@ -11,11 +11,11 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-- 👨‍💻 I'm an aspiring software engineer  
-- :school: I am attending [USC](https://viterbischool.usc.edu/) to study computer engineering and computer science
+- 👨‍💻 Aspiring software engineer  
+- :school: I am attending [USC](https://viterbischool.usc.edu/) to study Computer Engineering and Computer Science
 - :trophy: USC Leadership Scholar, 2x AP Scholar with Distinction
 - :computer: My interests revolve around using software to improve others' lives
-- 🤓 Currently learning C++ and Metal
+- 🤓 Currently learning C++ and OpenGL
 
 <br>
 <br>
@@ -34,15 +34,4 @@
   - Built using Python and the Pynput library
 
 ## 🛠️ Programming languages
-&emsp;
-<a href="https://www.cprogramming.com/"> 
-  <img alt="C" width=40 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg">
-</a> 
-&emsp;
-<a href="https://www.java.com"> 
-  <img alt="Java" width=40 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
-</a>
-&emsp;
-<a href="https://www.python.org">
-  <img alt="Python" width=40 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
-</a>
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,c,java&perline=4)](https://skillicons.dev)
