@@ -13,7 +13,7 @@
 
 - 👨‍💻 Aspiring software engineer  
 - :school: Attending [USC](https://viterbischool.usc.edu/) to study Computer Engineering and Computer Science :v:
-- :trophy: USC Leadership Scholar, Generation Google Scholar (declined)
+- :trophy: USC Leadership Scholar, Generation Google Scholar (Selected, 2024 -- declined due to gap year)
 - :computer: Interests revolve around using software to improve others' lives
 - 🤓 Currently learning C++ and OpenGL
 
