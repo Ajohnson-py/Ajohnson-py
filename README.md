@@ -31,7 +31,7 @@
   - Built using C and SDL
 - **[inputKit](https://github.com/Ajohnson-py/Mathcha-Keyboard-Shortcuts)**
   - In-progress Python library that simplifies the way developers read and emulate global macOS input methods for mouse and keyboard
-  - Utilizes PyObjC to call native Quartz functions and abstract standard functionality.
+  - Utilizes PyObjC to call native Quartz functions and abstract standard functionality
 
 ## 🛠️ Programming languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,c,java&perline=4)](https://skillicons.dev)
