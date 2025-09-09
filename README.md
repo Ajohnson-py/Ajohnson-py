@@ -24,14 +24,14 @@
 ## 🥇 Noteworthy Projects
 
 - **[FaceNav](https://github.com/Ajohnson-py/FaceNav)**
-  - In-progress computer vision program enabling people with severe physical impairments to control their Mac with facial expressions
+  - Computer vision program enabling people with severe physical impairments to control their Mac with facial expressions
   - Built using Python, OpenCV, and MediaPipe
 - **[3D Software Render](https://github.com/Ajohnson-py/3D-Software-Renderer/tree/main)**
   - Software renderer that implements basic graphics programming techniques (scanline rasterization, backface culling, etc...)
   - Built using C and SDL
-- **[Mathcha Hotkey Script](https://github.com/Ajohnson-py/Mathcha-Keyboard-Shortcuts)**
-  - Script that makes [Mathcha](https://www.mathcha.io/) more accessible for students with physical impairments
-  - Built using Python and the Pynput library
+- **[inputKit](https://github.com/Ajohnson-py/Mathcha-Keyboard-Shortcuts)**
+  - In-progress Python library that simplifies the way developers read and emulate global macOS input methods for mouse and keyboard
+  - Utilizes PyObjC to call native Quartz functions and abstract standard functionality.
 
 ## 🛠️ Programming languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,c,java&perline=4)](https://skillicons.dev)
